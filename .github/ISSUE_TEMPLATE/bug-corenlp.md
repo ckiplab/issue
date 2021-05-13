@@ -1,20 +1,16 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: 'Priority: Medium, Status: 0-Pending, Type: Bug'
-assignees: ''
-
+name: "[BUG] CKIP CoreNLP"
+about: "[BUG] CKIP CoreNLP"
+title: "[CKIP CoreNLP]"
+labels: "Priority: Medium, Status: 0-Pending, Type: Bug"
 ---
-
-**Demo/Service Name**
-e.g. CKIP CoreNLP
 
 **Describe the bug**
 A clear and concise description of what the bug is.
 
 **To Reproduce**
 Steps to reproduce the behavior:
+
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'

@@ -1,10 +1,9 @@
 ---
-name: "[BUG] CKIP CoreNLP"
-about: "[BUG] CKIP CoreNLP"
-title: "[CKIP CoreNLP]"
-labels: 'Priority: Medium, Status: 0-Pending, Type: Bug'
-assignees: emfomy
-
+name: "[BUG] CKIP Tagger"
+about: "[BUG] CKIP Tagger"
+title: "[CKIP Tagger]"
+labels: "Priority: Medium, Status: 0-Pending, Type: Bug"
+assignees: ""
 ---
 
 **Describe the bug**
@@ -12,6 +11,7 @@ A clear and concise description of what the bug is.
 
 **To Reproduce**
 Steps to reproduce the behavior:
+
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
