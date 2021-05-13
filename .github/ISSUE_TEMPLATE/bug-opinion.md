@@ -1,5 +1,5 @@
 ---
-name: "[BUG] CKIP Opinion"
+name: "[BUG] Opinion Analysis"
 about: "[BUG] 輿情分析系統"
 title: "[CKIP Opinion]"
 labels: "Priority: Medium, Status: 0-Pending, Type: Bug"
