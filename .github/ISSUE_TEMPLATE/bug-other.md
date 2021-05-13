@@ -1,7 +1,7 @@
 ---
-name: "[BUG] E-HowNet"
-about: "[BUG] 廣義知網"
-title: "[E-HowNet]"
+name: "[BUG] Other"
+about: "[BUG] 其他"
+title: "[Other]"
 labels: "Priority: Medium, Status: 0-Pending, Type: Bug"
 assignees: ""
 ---
