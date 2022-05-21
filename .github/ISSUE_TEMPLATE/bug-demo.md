@@ -1,7 +1,7 @@
 ---
-name: "[BUG] Opinion Analysis"
-about: "[BUG] 輿情分析系統"
-title: "[CKIP Opinion]"
+name: "[BUG] Demo"
+about: "線上系統展示的錯誤"
+title: "[Demo]"
 labels: "Priority: Medium, Status: 0-Pending, Type: Bug"
 assignees: ""
 ---

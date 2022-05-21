@@ -1,1 +1,1 @@
-# Issues of CKIP Demo and Services
+# Issues of CKIP Website and Demos

@@ -1,6 +1,6 @@
 ---
 name: "[BUG] Other"
-about: "[BUG] 其他"
+about: "其他錯誤"
 title: "[Other]"
 labels: "Priority: Medium, Status: 0-Pending, Type: Bug"
 assignees: ""

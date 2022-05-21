@@ -1,7 +1,7 @@
 ---
-name: "[BUG] E-HowNet"
-about: "[BUG] 廣義知網"
-title: "[E-HowNet]"
+name: "[BUG] Website"
+about: "CKIP 網頁的錯誤"
+title: "[Website]"
 labels: "Priority: Medium, Status: 0-Pending, Type: Bug"
 assignees: ""
 ---
